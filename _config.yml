@@ -1,0 +1,6 @@
+title: KeySense
+description: Offline music key, BPM, and Camelot analysis for Android.
+theme: jekyll-theme-minimal
+url: https://matrixreligio.github.io
+baseurl: /keysense-pages
+permalink: /:path/
