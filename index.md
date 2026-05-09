@@ -22,4 +22,4 @@ KeySense analyzes music entirely on your device — no uploads, no accounts, no 
 
 ## Contact
 
-**jim.ho@icloud.com**
+**jim.ho@matrixreligio.com**

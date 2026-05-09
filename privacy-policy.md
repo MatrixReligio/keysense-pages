@@ -53,6 +53,6 @@ Permissions are requested only when the user starts a feature that needs them.
 
 ## Contact
 
-For privacy questions, contact: **jim.ho@icloud.com**
+For privacy questions, contact: **jim.ho@matrixreligio.com**
 
 This policy applies to the Android application **KeySense** (`com.keysense.app`) distributed on Google Play.
